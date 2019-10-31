@@ -1,6 +1,10 @@
 Starting my preview, I knew this wouldn’t be a walk in the park for me. From day one, I was lost in the tutorials and atom. Starting from the link Ben posted on how to build a site via GitHub, I ran into the difficulty of creating a new repository. I assume I am naming it wrong? This is what I saw. 
 
 
+
+<img width="973" alt="Screen Shot 2019-10-31 at 1 24 07 PM" src="https://user-images.githubusercontent.com/54679149/67973484-f8feaa80-fbe6-11e9-980d-df3fcbb79b26.png">
+
+
 So, from here, I decided to keep pushing forward from this issue and begin my ‘code’ for my site. As someone who does not understand this unit very well, I decided to try to pull from the tutorials we have been working on to get started on my site. I liked the way the buttons looked in “CSS Selectors”. I soon learned taking from other files proves difficult due to the linking between HTML and CSS files in the same folder. 
 
 I am not anywhere near where I want to be with my website, but this is what it looks like so far. 
