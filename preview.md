@@ -19,4 +19,14 @@ My main issue here is that I had the buttons like I had hoped for, but in attemp
 This is what my HTML and CSS files look like so far. 
 
 
+<img width="1232" alt="Screen Shot 2019-10-31 at 1 41 03 PM" src="https://user-images.githubusercontent.com/54679149/67973592-264b5880-fbe7-11e9-87e2-9a6062f45ae5.png">
+
+
+<img width="1232" alt="Screen Shot 2019-10-31 at 1 41 12 PM" src="https://user-images.githubusercontent.com/54679149/67973595-277c8580-fbe7-11e9-8018-7c2a3edd6faf.png">
+
+
+
 Obviously, a work in progress, but I am making small steps toward understanding creating a website better. From here, I am going to watch numerous Youtube videos that break down each step more simply.
+
+
+(And yes I am VERY proud of myself for figuring out how to embed my screenshots into this text file!!!!)
