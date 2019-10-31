@@ -27,33 +27,88 @@ body {
   text-align: center;
 }
 font-weight: bold;
-div {
-  color: #FFF;
-  background-color: #4A90E2;
+
+.button:link,                 /* Change this */
+.button:visited {             /* Change this */
+  display: block;             /* Add this */
+  text-decoration: none;      /* Add this */
+
+  color: #FFF;                /* The rest is the same */
+  background-color: #5995DA;
   font-weight: bold;
   padding: 20px;
   text-align: center;
-
-  width: 200px;
-  box-sizing: border-box;
-  margin: 20px auto; /* Vertical  Horizontal */
-}p {
-  padding: 20px 0 20px 10px;
-
-  margin-top: 25px;
-  margin-bottom: 50px;
-}div {
-  /* [Existing Declarations] */
-  width: 200px;
-  .button {
-  color: #FFF;
-  background-color: #5995DA;    /* Blue */
-  font-weight: bold;
-  padding: 20px;
-  text-align: center;
-  border: 2px solid #5D6063;    /* Dark gray */
+  border: 2px solid #5D6063;
   border-radius: 5px;
 
   width: 200px;
   margin: 20px auto;
+}
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color: #D55C5F;    /* Red */
+}.button:active,
+.button:visited:active {
+  color: #FFF;
+  background-color: #D55C5F;    /* Red */
+}
+#ABOUT {
+  background-color: #D55C5F;    /* Red */
+}
+.button:link,                 /* Change this */
+.button:visited {             /* Change this */
+  display: block;             /* Add this */
+  text-decoration: none;      /* Add this */
+
+  color: #FFF;                /* The rest is the same */
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color: #D55C5F;    /* Red */
+}.button:active,
+.button:visited:active {
+  color: #FFF;
+  background-color: #D55C5F;    /* Red */
+}
+#WRITING {
+  background-color: #D55C5F;    /* Red */
+}
+.button:link,                 /* Change this */
+.button:visited {             /* Change this */
+  display: block;             /* Add this */
+  text-decoration: none;      /* Add this */
+
+  color: #FFF;                /* The rest is the same */
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color: #D55C5F;    /* Red */
+}.button:active,
+.button:visited:active {
+  color: #FFF;
+  background-color: #D55C5F;    /* Red */
+}
+#DESIGNS {
+  background-color: #D55C5F;    /* Red */
 }
