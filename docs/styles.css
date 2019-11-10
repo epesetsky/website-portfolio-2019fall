@@ -24,6 +24,10 @@ h2 {
   color: black;
 }
 
+h3 {
+  font-family: symbol;
+}
+
 hr {
   background-color: black;
   margin-top: 0px;
@@ -43,7 +47,7 @@ hr {
   width: 80%;
   height: 100%;
   font-family: symbol;
-  font-weight: bold;
+  font-weight: normal;
   margin: auto;
   background-color: #d6d6d6;
 }
@@ -55,8 +59,8 @@ form {
 }
 
 #input1 {
-  width: 85%;
-  height: 85%;
+  width: 80%;
+  height: 80%;
   color: white;
   margin-bottom: 7%;
 }
@@ -80,4 +84,22 @@ form {
   font-family: symbol;
   padding-left: 8%;
   padding-right: 8%;
+}
+
+#input4 {
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  cursor: pointer;
+  height: 5%;
+  width: 5%;
+  float: right;
+}
+.div5 {
+  width: 50%;
+  height: 50%;
+  font-family: symbol;
+  font-weight: normal;
+  margin: auto;
+  background-color: #d6d6d6;
 }
