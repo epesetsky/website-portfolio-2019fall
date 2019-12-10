@@ -39,20 +39,21 @@ hr {
   height: 60%;
   color: white;
   margin-bottom: 0%;
+  padding-top: 20%;
 }
 
 #input2 {
   width: 70%;
   height: 70%;
   color: white;
-  margin-bottom: 0%;
+  margin-bottom: -10%;
 }
 
 #input3 {
   width: 50%;
   height: 50%;
   color: white;
-  margin-bottom: 10%;
+  margin-bottom: 0%;
   margin-top: : 20%;
   padding-top: 20%;
 }
@@ -91,8 +92,9 @@ hr {
 
 .div3 {
   display: inline-block;
-  width: 30%;
+  width: 20%;
   height: 50%;
   margin: auto;
   text-align: center;
+  padding-left: 41%;
 }
